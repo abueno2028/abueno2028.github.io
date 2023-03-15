@@ -1,0 +1,128 @@
+
+
+/* all of your css goes here */
+
+
+h1.game_title {
+    text-align:center;
+    font-family:monospace;
+    border-style: groove;
+    border-color:rgb(240, 174, 236);
+    background:rgb(139, 69, 139);
+    color:rgb(240, 174, 236);
+    font-size:75px;
+    border-radius: 50px;
+    border-width:20px;
+    width:1000px;
+    margin: auto;
+    font-size: 100px;
+    }
+    
+    div.game_discription {
+    border-style: dotted;
+    border-color:rgb(139, 69, 139);
+    background:rgb(240, 174, 236);
+    color:rgb(139, 69, 139);
+    font-family:monospace;
+    font-size:50px;
+    border-radius:50px;
+    border-width:20px;
+    width: 45%;
+    margin-top: 20px;
+    float: left;
+    height:500px;
+    padding-bottom: 150px;
+    }
+    div.game_rules {
+    font-size:50px;
+    font-family: monospace;
+    border-style: dotted;
+    border-color:rgb(139, 69, 139);
+    background:rgb(240, 174, 236);
+    color:rgb(139, 69, 139);
+    font-size:50px;
+    border-radius:50px;
+    border-width:20px;
+    width: 45%;
+    margin-top: 20px;
+    float: right;
+    height:500px;
+    padding-bottom: 150px;
+    }
+    
+    h2.box_headings {
+    font-size:50px;
+    border-bottom-style: solid;
+    font-family:cursive;
+    padding-left: 5px;
+
+    }
+    p.box_text {
+    padding-left: 5px;
+    font-family:cursive;
+    font-size:30px;
+    }
+
+    h3.Screenshots {
+    color:rgb(240, 174, 236);
+    background:rgb(139, 69, 139);
+    text-align: center;
+    font-family:monospace;
+    border-style:Groove ;
+    font-size:45px;
+    border-color:rgb(240, 174, 236);
+    border-radius:50px;
+    border-width:20px;
+    margin-top:800px;
+    float:right;
+
+    }
+    
+
+    h3.About_us {
+    
+    border-style:groove;
+    color:rgb(240, 174, 236);
+    background:rgb(139, 69, 139);
+    text-align:left;
+    font-family:monospace;
+    background: rgb(139, 69, 139);
+    font-size:45px;
+    border-color:rgb(240, 174, 236);
+    border-radius:50px;
+    border-width:30px;
+    margin-top:600px;
+    float:left;
+    margin-left: 100px;
+    }
+
+    main {
+        margin-top: 750px;
+        margin-left: 18%;
+        margin-right: 18%;
+        border-style: solid;
+        background-image: url('assets/background_game.png');
+
+
+    }
+
+    body {
+    background-image: url('assets/websitebackground.jpeg');
+    background-size: cover;
+    }
+
+    img.Screenshot1 {
+        height:300px;
+      }
+
+      img.Screenshot2 {
+        height:300px;
+      }
+
+      img.Screenshot3 {
+        height:300px;
+      }
+    
+      img.Screenshot4 {
+        height:300px;
+      }
